@@ -1,0 +1,25 @@
+{
+    "name": "thefrozenfire/swagger-client",
+    "description": "Swagger client for PHP",
+    "authors": [
+        {
+            "name": "Justin Martin",
+            "email": "frozenfire@thefrozenfire.com"
+        }
+    ],
+    "require": {
+        "thefrozenfire/swagger": "^2.0",
+        "zendframework/zend-http": "^2.5"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.8.28"
+    },
+    "autoload": {
+        "psr-0": {
+            "Swagger": "src/"
+        },
+        "classmap": [
+            "tests/"
+        ]
+    }
+}
