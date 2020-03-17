@@ -19,7 +19,7 @@
                     <th>Chemical Name</th>
                     <th>Owner</th>
                     <th>Vendor</th>
-                    <th>Amount</th>
+                    <th>Quantity</th>
                     <th>Issued</th>
                     <th>Available</th>
                     <th>Status</th>
